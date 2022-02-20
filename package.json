@@ -2,12 +2,16 @@
   "name": "monokai-fire",
   "displayName": "Monokai Fire",
   "description": "Monokai But In Fire",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/programmingfire/monokai-fire"
+  },
   "author": {
     "name": "ProgrammingFire",
     "email": "techcode786@gmail.com"
   },
   "publisher": "ProgrammingFire",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.63.0"
   },
