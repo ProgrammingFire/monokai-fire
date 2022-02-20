@@ -1,0 +1,31 @@
+{
+  "name": "monokai-fire",
+  "displayName": "Monokai Fire",
+  "description": "Monokai But In Fire",
+  "author": {
+    "name": "ProgrammingFire",
+    "email": "techcode786@gmail.com"
+  },
+  "publisher": "ProgrammingFire",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Fire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-Fire-color-theme.json"
+      },
+      {
+        "label": "Monokai Fire (Machine)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-Fire-Machine-color-theme.json"
+      }
+    ]
+  }
+}
