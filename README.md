@@ -1,3 +1,3 @@
 # Monokai Fire
 
-Populor Monokai Theme In Fire
+Popular Monokai Theme In Fire
